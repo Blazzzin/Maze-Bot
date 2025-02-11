@@ -17,16 +17,6 @@ Check out the bot in action!
 
 > *Click the image above to watch the video.*
 
-## Installation & Usage 📌
-1. Flash the **main.asm** program to your microcontroller.  
-2. Place the bot at the start of the maze.  
-3. Watch it find its way!  
-
-## Future Improvements 🚀
-- Enhanced path optimization  
-- Multi-directional sensing  
-- Adaptive speed control  
-
 ---
 
-📌 *Feel free to contribute or suggest improvements!*
+Made by Saheer Multani
