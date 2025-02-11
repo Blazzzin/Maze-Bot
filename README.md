@@ -1,4 +1,4 @@
-# Maze-Bot s🚀
+# Maze-Bot 🚀
 
 Maze-Bot Navigator is a microcontroller-based robot that autonomously navigates through a maze using sensor feedback and decision-making logic.
 
@@ -17,13 +17,8 @@ Check out the bot in action!
 
 > *Click the image above to watch the video.*
 
-If you are hosting this on GitHub and want a playable video, upload it to a repository and use:
-```md
-<video controls width="600" muted>
-  <source src="videos/maze_bot_demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-```
+If you are hosting this on GitHub, you can provide a direct download link:  
+[Watch the demo](https://github.com/YOUR_USERNAME/YOUR_REPO/raw/main/videos/maze_bot_demo.mp4)
 
 ## Installation & Usage 📌
 1. Flash the **main.asm** program to your microcontroller.  
