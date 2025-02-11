@@ -13,9 +13,7 @@ The bot uses sensors to detect obstacles and adjusts its path accordingly. The d
 
 ## Demo 🎥
 Check out the bot in action!  
-[![Maze-Bot Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
-> *Click the image above to watch the video.*
+[Watch the demo](https://github.com/YOUR_USERNAME/YOUR_REPO/raw/main/videos/maze_bot_demo.mp4)
 
 ---
 
